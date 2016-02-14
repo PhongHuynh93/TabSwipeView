@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TabSwipeView</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_section1">First Tab</string>
+    <string name="title_section2">Some icon to show</string>
+    <string name="title_section3">Third screen</string>
+    <string name="tab1_textview">Hello World!</string>
+    <string name="tab3_textview">Third screen text</string>
+
+</resources>
